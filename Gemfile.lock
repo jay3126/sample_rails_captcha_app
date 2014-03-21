@@ -83,6 +83,7 @@ GEM
     rake (10.1.1)
     rdoc (4.1.1)
       json (~> 1.4)
+    recaptcha (0.3.6)
     ref (1.0.5)
     sass (3.2.17)
     sass-rails (4.0.2)
@@ -134,6 +135,7 @@ DEPENDENCIES
   jquery-rails
   mysql2
   rails (= 4.0.4)
+  recaptcha
   sass-rails (~> 4.0.2)
   sdoc
   therubyracer
